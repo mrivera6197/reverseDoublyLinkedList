@@ -30,8 +30,6 @@
  * @author Michael H. Goldwasser
  */
 
-// modifed for a course assignment
-
 public class DoublyLinkedList<E> {
 
     // instance variables of the DoublyLinkedList

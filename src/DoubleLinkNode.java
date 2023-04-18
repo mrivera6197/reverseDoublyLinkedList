@@ -27,7 +27,6 @@ public class DoubleLinkNode<E> {
         next = n;
     }
 
-    // public accessor methods
     /**
      * Returns the element stored at the DoubleLinkNode.
      * @return the element stored at the DoubleLinkNode

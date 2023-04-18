@@ -18,7 +18,6 @@ public class Hw2_p3 {
         helper(intList, i + 1);
         // add temp value to the end of the list
         intList.addLast(tempValue);
-
     }
 
     public static void main(String[] args) {
@@ -43,8 +42,8 @@ public class Hw2_p3 {
         System.out.println("Initial list: size = " + intList.size() + ", " + intList.toString());
 
         reverse(intList);
-
         System.out.println("After reverse: " + intList.toString());
+        //test
 
     }
 
